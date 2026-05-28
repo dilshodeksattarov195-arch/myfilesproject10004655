@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheronnect",
+        "uuid": 7420070,
+        "checksum": "66up6"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
